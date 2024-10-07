@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cfg-analysis"
+  site-url: "https://Matthew-Berthoud.github.io/cfg-analysis"
+  description: "CFG Analysis Library"
+  repo-branch: main
+  repo-url: "https://github.com/Matthew-Berthoud/cfg-analysis"
